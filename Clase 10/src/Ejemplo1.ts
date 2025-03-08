@@ -1,2 +1,3 @@
-console.log('Hola mundo');
-console.log('Hola mundo 2');
+class User {
+    constructor(public name: string){ }
+}
